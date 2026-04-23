@@ -1,0 +1,11 @@
+{
+  "name": "safetrack",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SafeTrack — Safety Complaints Tracking System",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
